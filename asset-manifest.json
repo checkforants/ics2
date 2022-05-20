@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/ics2/static/css/main.93346532.css",
-    "main.js": "/ics2/static/js/main.30ccb399.js",
+    "main.css": "/ics2/static/css/main.84176727.css",
+    "main.js": "/ics2/static/js/main.08a368e3.js",
+    "static/media/tunetank.com_4043_summer-lofi_by_sfrecords.mp3": "/ics2/static/media/tunetank.com_4043_summer-lofi_by_sfrecords.514df2b574c2d250f9b1.mp3",
     "static/media/attach.png": "/ics2/static/media/attach.30930eaf56dcb510ca41.png",
     "static/media/9.png": "/ics2/static/media/9.e6568160efb7b1baea33.png",
     "static/media/7.png": "/ics2/static/media/7.22f21321b236be1f1b6c.png",
@@ -13,14 +14,15 @@
     "static/media/4.png": "/ics2/static/media/4.0ea9e7d2ec8e4ace8eb6.png",
     "static/media/5.png": "/ics2/static/media/5.18f1019ee5d2e731b73d.png",
     "static/media/6.png": "/ics2/static/media/6.7c026618444ea33fa2a0.png",
+    "static/media/icon2.png": "/ics2/static/media/icon2.1cf130bec2f833ab1f93.png",
     "static/media/1.png": "/ics2/static/media/1.8eaece9dd260c3eab1cb.png",
     "static/media/comments.png": "/ics2/static/media/comments.01754b9b8a5020ec9000.png",
     "index.html": "/ics2/index.html",
-    "main.93346532.css.map": "/ics2/static/css/main.93346532.css.map",
-    "main.30ccb399.js.map": "/ics2/static/js/main.30ccb399.js.map"
+    "main.84176727.css.map": "/ics2/static/css/main.84176727.css.map",
+    "main.08a368e3.js.map": "/ics2/static/js/main.08a368e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.93346532.css",
-    "static/js/main.30ccb399.js"
+    "static/css/main.84176727.css",
+    "static/js/main.08a368e3.js"
   ]
 }
