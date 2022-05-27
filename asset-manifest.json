@@ -1,28 +1,18 @@
 {
   "files": {
-    "main.css": "/ics2/static/css/main.84176727.css",
-    "main.js": "/ics2/static/js/main.08a368e3.js",
+    "main.css": "/ics2/static/css/main.3389aa22.css",
+    "main.js": "/ics2/static/js/main.056f0f5e.js",
     "static/media/tunetank.com_4043_summer-lofi_by_sfrecords.mp3": "/ics2/static/media/tunetank.com_4043_summer-lofi_by_sfrecords.514df2b574c2d250f9b1.mp3",
     "static/media/attach.png": "/ics2/static/media/attach.30930eaf56dcb510ca41.png",
-    "static/media/9.png": "/ics2/static/media/9.e6568160efb7b1baea33.png",
-    "static/media/7.png": "/ics2/static/media/7.22f21321b236be1f1b6c.png",
-    "static/media/3.png": "/ics2/static/media/3.2879077eb8bdca306dff.png",
-    "static/media/8.png": "/ics2/static/media/8.c6a8418adb2626b93cb0.png",
-    "static/media/2.png": "/ics2/static/media/2.895a84d13624351d79ca.png",
-    "static/media/10.png": "/ics2/static/media/10.173f0da8cc722ba5d9c6.png",
-    "static/media/11.png": "/ics2/static/media/11.a3981a3a4d6e50488f7a.png",
-    "static/media/4.png": "/ics2/static/media/4.0ea9e7d2ec8e4ace8eb6.png",
-    "static/media/5.png": "/ics2/static/media/5.18f1019ee5d2e731b73d.png",
-    "static/media/6.png": "/ics2/static/media/6.7c026618444ea33fa2a0.png",
+    "static/media/sett2.png": "/ics2/static/media/sett2.04ccfd38913f9a19a141.png",
     "static/media/icon2.png": "/ics2/static/media/icon2.1cf130bec2f833ab1f93.png",
-    "static/media/1.png": "/ics2/static/media/1.8eaece9dd260c3eab1cb.png",
     "static/media/comments.png": "/ics2/static/media/comments.01754b9b8a5020ec9000.png",
     "index.html": "/ics2/index.html",
-    "main.84176727.css.map": "/ics2/static/css/main.84176727.css.map",
-    "main.08a368e3.js.map": "/ics2/static/js/main.08a368e3.js.map"
+    "main.3389aa22.css.map": "/ics2/static/css/main.3389aa22.css.map",
+    "main.056f0f5e.js.map": "/ics2/static/js/main.056f0f5e.js.map"
   },
   "entrypoints": [
-    "static/css/main.84176727.css",
-    "static/js/main.08a368e3.js"
+    "static/css/main.3389aa22.css",
+    "static/js/main.056f0f5e.js"
   ]
 }
