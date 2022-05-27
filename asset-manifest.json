@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ics2/static/css/main.3389aa22.css",
-    "main.js": "/ics2/static/js/main.056f0f5e.js",
+    "main.js": "/ics2/static/js/main.e8920b3f.js",
     "static/media/tunetank.com_4043_summer-lofi_by_sfrecords.mp3": "/ics2/static/media/tunetank.com_4043_summer-lofi_by_sfrecords.514df2b574c2d250f9b1.mp3",
     "static/media/attach.png": "/ics2/static/media/attach.30930eaf56dcb510ca41.png",
     "static/media/sett2.png": "/ics2/static/media/sett2.04ccfd38913f9a19a141.png",
@@ -9,10 +9,10 @@
     "static/media/comments.png": "/ics2/static/media/comments.01754b9b8a5020ec9000.png",
     "index.html": "/ics2/index.html",
     "main.3389aa22.css.map": "/ics2/static/css/main.3389aa22.css.map",
-    "main.056f0f5e.js.map": "/ics2/static/js/main.056f0f5e.js.map"
+    "main.e8920b3f.js.map": "/ics2/static/js/main.e8920b3f.js.map"
   },
   "entrypoints": [
     "static/css/main.3389aa22.css",
-    "static/js/main.056f0f5e.js"
+    "static/js/main.e8920b3f.js"
   ]
 }
